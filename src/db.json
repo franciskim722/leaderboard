@@ -1,0 +1,74 @@
+{
+  "players": [
+    {
+      "id": 9,
+      "firstName": "Joe",
+      "lastName": "Exotic",
+      "score": 25,
+      "teamId": 44
+    },
+    {
+      "id": 23,
+      "firstName": "Dwight",
+      "lastName": "Schrute",
+      "score": 52,
+      "teamId": 88
+    },
+    {
+      "id": 74,
+      "firstName": "Bob",
+      "lastName": "The Builder",
+      "score": 73,
+      "teamId": 99
+    },
+    {
+      "id": 15,
+      "firstName": "Olivia",
+      "lastName": "Pope",
+      "score": 74,
+      "teamId": 99
+    },
+    {
+      "id": 1,
+      "firstName": "Rebecca",
+      "lastName": "Brunch",
+      "score": 31,
+      "teamId": 44
+    },
+    {
+      "id": 99,
+      "firstName": "Tyrian",
+      "lastName": "Lannister",
+      "score": 48,
+      "teamId": 88
+    },
+    {
+      "id": 23,
+      "firstName": "Dobby",
+      "lastName": "The House Elf",
+      "score": 66,
+      "teamId": 88
+    },
+    {
+      "id": 21,
+      "firstName": "Leslie",
+      "lastName": "Knope",
+      "score": 62,
+      "teamId": 44
+    }
+  ],
+  "teams": [
+    {
+      "id": 44,
+      "name": "Crushers"
+    },
+    {
+      "id": 88,
+      "name": "Ferries"
+    },
+    {
+      "id": 99,
+      "name": "Walruses"
+    }
+  ]
+}
